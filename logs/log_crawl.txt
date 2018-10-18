@@ -1,0 +1,4 @@
+2017-04-22 12:37:51:  http://www.zoomit.ir/2016/11/13/148442/zoomit-website-invaders-infographic/
+2017-04-22 12:37:51:  'NoneType' object has no attribute 'find_all'
+2017-04-22 12:38:21:  http://www.zoomit.ir/2016/10/4/136814/how-do-i-get-better-at-networking-marketing/
+2017-04-22 12:38:21:  'NoneType' object has no attribute 'find_all'
